@@ -7,7 +7,7 @@
 </head>
 <body>
     <header>
-        <a href="../index.php">(<)</a> <!-- Temporal -->
+        <a href="../../index.php">(<)</a> <!-- Temporal -->
         <h1>Área del Cubo</h1>
     </header>
 
@@ -26,6 +26,6 @@
         <p>6 * <span id="valorArista"></span>² = 6 * (a)²</p>
     </div>
 
-    <script src="../js/area.js"></script>
+    <script src="/js/area.js"></script>
 </body>
 </html>

@@ -7,7 +7,7 @@
 </head>
 <body>
     <header>
-        <a href="../index.php">(<)</a> <!-- Temporal-->
+        <a href="../../index.php">(<)</a> <!-- Temporal -->
         <h1>Perimetro del Cubo</h1>
     </header>
 
@@ -26,6 +26,6 @@
         <p>12 * <span id="valorArista"></span> = 12 * (a)</p>
     </div>
 
-    <script src="../js/perimetro.js"></script>
+    <script src="/js/perimetro.js"></script>
 </body>
 </html>
