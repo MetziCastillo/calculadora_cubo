@@ -32,6 +32,10 @@ export default {
                 case 'area':
                    this.$router.push('/area')
                     break;
+
+                case 'perimetro':
+                    this.$router.push('/perimetro')
+                    break;
             
                 default:
                     break;
