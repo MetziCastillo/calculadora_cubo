@@ -9,7 +9,7 @@ export default {
     methods: {
         calcularArea() {
             
-            this.resultado = 6 * (this.arista * 2)
+            this.resultado = 6 * (this.arista ** 2)
         },
         regresar() {
             this.$router.push('/')
